@@ -1,14 +1,14 @@
 1. Clone the Repository
-  git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-2. Install Dependencies
- pip install -r requirements.txt
- (If you don’t have requirements.txt, you can manually run:)
+3. Install Dependencies
+pip install -r requirements.txt
+(If you don’t have requirements.txt, you can manually run:)
 
 pip install google-generativeai python-dotenv
 
-3. Set Up API Key
+4. Set Up API Key
 -Go to Google AI Studio.
 -Generate a free API key.
 -Create a .env file in the project folder:
